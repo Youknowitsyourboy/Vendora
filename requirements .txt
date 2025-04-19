@@ -1,4 +1,0 @@
-aiogram
-solana
-pydantic
-typing-extensions
